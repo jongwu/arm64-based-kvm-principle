@@ -2,8 +2,6 @@
 
 一份关于 arm64 虚拟化原理与 KVM 源码实现的笔记，涵盖 CPU、内存、中断、时钟、设备五大虚拟化子系统，从 arm64 硬件虚拟化支持讲起，逐步深入到 Linux KVM 的具体代码实现。
 
-原文首发于[语雀](https://www.yuque.com/banshanke/apcmae)，本仓库为导出的 Markdown 版本。
-
 ## 目录
 
 - [第一章 虚拟化概述](01-虚拟化概述.md)
